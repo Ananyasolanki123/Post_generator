@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mangum
+requests
+python-dotenv
+openai
